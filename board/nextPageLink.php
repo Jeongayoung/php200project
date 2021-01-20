@@ -1,5 +1,5 @@
 <?php
-    // 전체 레코드 수 구하기
+    // 전체 레코드 수 구하기!
     $sql = "SELECT count(boardID) FROM board"; // 쿼리 수 구함
     $result = $dbConnect->query($sql); // 쿼리문 실행
 
