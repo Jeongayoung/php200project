@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "auto-rename-tag.activationOnLanguage": [
+
+        "*"
+    ],
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe"
+}
