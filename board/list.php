@@ -1,5 +1,5 @@
 <?php
-    include $_SERVER['DOCUMENT_ROOT'].'/php200project/common/session.php'; // session_start
+    include $_SERVER['DOCUMENT_ROOT'].'/php200project/common/session.php'; // session_start()
     include $_SERVER['DOCUMENT_ROOT'].'/php200project/common/checkSignSession.php'; // session check
     include $_SERVER['DOCUMENT_ROOT'].'/php200project/connection/connection.php'; // db connect
 ?>
